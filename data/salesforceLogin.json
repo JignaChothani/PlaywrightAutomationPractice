@@ -1,0 +1,12 @@
+[
+    {
+        "role": "admin",
+        "username": "bhuvanesh.moorthy@testleaf.com",
+        "password": "Qeagle@2027"
+    },
+    {
+        "role": "user",
+        "username": "dilipkumar.rajendran@testleaf.com",
+        "password": "Testleaf@2025"
+    }
+]
